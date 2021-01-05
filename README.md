@@ -22,7 +22,7 @@ Tinyfilemanager is highly documented on the [wiki pages](https://github.com/pras
 
 ## Requirements
 
-- PHP 5.5.0 or higher.
+- PHP Version 5.5.0 or greater and < 8.0
 - Fileinfo, iconv, zip, tar and mbstring extensions are strongly recommended.
 
 ## How to use
